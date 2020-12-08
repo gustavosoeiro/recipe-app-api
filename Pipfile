@@ -11,6 +11,8 @@ flake8 = "<3.8.5,>=3.6.0"
 pyflakes = ">=2.1.1"
 Django = "<2.2.18,>=2.1.3"
 ipython = "*"
+bandit = "*"
+django-easy-audit = "*"
 
 [requires]
 python_version = "3.8"
